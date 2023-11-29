@@ -1,4 +1,4 @@
-scheme = "C:\Users\berto\OneDrive\Documents\Linkedin\LinkedinContentCode\linkedincontentcode\Generate position.zcos";
+scheme = "Generate position.zcos";
 
 // Simulate
 importXcosDiagram(scheme);
